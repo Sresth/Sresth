@@ -1,0 +1,4 @@
+- Hi, I’m @Sresth
+- I’m interested in coding as I want my work to have a more meaningful impact than my current profile (Operations) provides
+- I’m currently learning SQL
+- I have not yet decided my specialization in coding as I am just having a general overview but hope to have a clearer goal in few weeks.
